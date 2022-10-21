@@ -1,2 +1,13 @@
-# guess_my_number
-Guess My Number Project from The Complete JavaScript Course https://www.udemy.com/course/the-complete-javascript-course/
+# Guess My Number!
+
+Start guessing...
+
+![image](./images/guess.png)
+
+Win!
+
+![image](./images/win.png)
+
+Lose!
+
+![image](./images/lose.png)
